@@ -40,4 +40,11 @@ Scheduler feature:
   1. User will be notified once only. Implemented by having Boolean state for notified
   2. currently set to run every 10 seconds
 
+*SWAGGER INDEX: http://localhost:8080/swagger-ui/index.html
+
+*H2 Console: 
+  URL: jdbc:h2:mem:reservationdb
+  user: sa
+  password: password
+  
 **ADDED Postman collection named: Reservation.postman_collection.json
