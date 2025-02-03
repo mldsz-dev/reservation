@@ -39,3 +39,5 @@ Scheduler feature:
   Assumptions:
   1. User will be notified once only. Implemented by having Boolean state for notified
   2. currently set to run every 10 seconds
+
+**ADDED Postman collection named: Reservation.postman_collection.json
